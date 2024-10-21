@@ -1,0 +1,9 @@
+commande git afin de cloner un repository:
+-creer un repository sur ghitub
+- dans le terminal commande git clone le chemin d'accès
+
+les 3 commandes commande de push sont:
+-git push
+-git push origin  nom de la branche
+-git push -u origin nom de la branche
+
