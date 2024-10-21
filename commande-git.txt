@@ -6,4 +6,7 @@ les 3 commandes commande de push sont:
 -git push
 -git push origin  nom de la branche
 -git push -u origin nom de la branche
+commande pour pull:
+git pull
+
 
