@@ -9,4 +9,9 @@ les 3 commandes commande de push sont:
 commande pour pull:
 git pull origin main
 
+Comment pour creer une branche:
+-git branch nomdelabranche
+ensuite on bascule sur cette branche:
+-git checkout
+
 
